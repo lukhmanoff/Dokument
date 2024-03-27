@@ -1,0 +1,232 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+
+}
+body {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* card */
+.card1{
+    width: 263px;
+    background-color: #FF4F52;
+    padding: 30px 25px 18px 25px;
+    margin: 50px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.card-img{
+    margin-bottom: 19px;
+}
+
+.card-title{
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.card-text{
+    color: white;
+    margin-bottom: 27px;
+ 
+}
+
+.card2{
+    width: 263px;
+    background-color: #262D33;
+    padding: 30px 25px 18px 25px;
+    margin: 50px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.card3{
+    width: 263px;
+    background-color:#3DC47E;
+    padding: 30px 25px 18px 25px;
+    margin: 50px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.card4{
+    width: 263px;
+    background-color: #6D75E7;
+    padding: 46px 20px 31px 25px;
+    margin: 50px;
+    border-radius: 10px;
+
+    margin-bottom: 10px;
+    
+}
+.card-text{
+    margin-bottom: 24px;
+}
+.card-title{
+    margin-bottom: 23px;
+}
+.card-img-text{
+    color: #fff;
+}
+
+.card5{
+    width: 263px;
+    background-color: #6D75E7;
+    padding: 30px 29px 26px 25px;
+    margin: 50px;
+    border-radius: 10px;
+
+}
+.card6{
+    width: 263px;
+    background-color: #4CB9FC;
+    padding: 106px 25px 12px 25px;
+    margin: 50px;
+    border-radius: 10px;
+  
+}
+
+.card-date{
+    margin-bottom: 71px;
+}
+
+.card-link{
+    color: #fff;
+}
+ 
+.card7{
+    width: 263px;
+    background-color: #4CB9FC;
+    padding: 39px 25px 12px 25px;
+    margin: 50px;
+    border-radius: 10px;
+  
+}
+.card-logo{
+    text-align: center;
+    margin-bottom: 52.6px;
+}
+
+.card-date{
+    margin-bottom: 71px;
+}
+.card-link{
+    color: #fff;
+}
+
+.card8{
+    width: 263px;
+    background-color: #4267B2;
+    padding: 20px 25px 7px 25px;
+    margin: 50px;
+    border-radius: 10px;
+}
+.card-name{
+    text-align: center;
+    color: #BBC6FF;
+    margin-bottom: 45px;
+
+    
+}
+.card-title{
+    margin-bottom: 28px;
+}
+
+.cards-img{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.card9{
+    width: 263px;
+    background-color: #4267B2;
+    padding: 19px 25px 96px 25px;
+    margin: 50px;
+    border-radius: 10px;
+}
+.card-name{
+    color: #fff;
+    margin-bottom: 51px;
+}
+
+.card10{
+    width: 263px;
+    background-color: #FF4F52;
+    padding: 45px 27px 135px 23px;
+    margin: 50px;
+    border-radius: 30px;
+}
+.card-name{
+    margin-bottom: 30px;
+}
+.card-title{
+    margin-bottom: 30px;
+}
+
+.card11{
+    width: 263px;
+    background-color: #FFD980;
+    padding: 25px 25px 20px 25px;
+    margin: 50px;
+    border-radius: 10px;
+}
+.card-name{
+    color: #F78316;
+    margin-bottom: 43px;
+}
+
+.card12{
+    width: 263px;
+    background-color:#5AADFF;
+    padding: 72px 25px 25px 25px;
+    margin: 50px;
+    border-radius: 10px;
+}
+.card-img{
+    margin-bottom: 48px;
+}
+
+.card13{
+    width: 263px;
+    background-color:#262D33;
+    padding: 105px 25px 28px 25px;
+    margin: 50px;
+    border-radius: 10px;
+}
+.card-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.card-text{
+    color: #D9DADB;
+    text-align: center;
+    margin-bottom: 45px;
+}
+.card-img{
+    text-align: center;
+}
+.card14{
+    width: 263px;
+    background-color: #7B7CE6;
+    padding: 105px 25px 28px 25px;
+    margin: 50px;
+    border-radius: 10px;
+}
+.card-title{
+    margin-bottom: 62px;
+}
+
+
+
+
